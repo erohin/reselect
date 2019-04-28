@@ -1,9 +1,6 @@
 node_modules
-lib
 .nyc_output
 coverage
-dist
-es
 .vscode
 .idea
 typescript_test/should_compile/index.js
